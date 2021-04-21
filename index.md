@@ -2,6 +2,8 @@
 layout:default
 ----
 
-#<a href="Lab01(1).html">Lab01</a>
+<H1>This is where I post my Knowledge Mining material</H1>
 
-## .[Lab01].(Lab01(1).html)
+<p><a href="Lab01(1).html">Lab 01</a>
+
+
